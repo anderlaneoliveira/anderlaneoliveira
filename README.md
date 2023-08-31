@@ -1,7 +1,7 @@
 ### 👋 Olá, seja bem vindo ao meu perfil no Github!
 
 
-### 🤓 **Sou Anderlane Oliveira**
+### 😃 **Sou Anderlane Oliveira**
 
 Sobre mim:
 
