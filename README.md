@@ -1,4 +1,4 @@
-### 👋 Olá, seja bem vindo ao meu perfil no Github!
+### 👋 Olá, seja bem vindo(a) ao meu perfil no Github!
 
 
 ### 😃 **Sou Anderlane Oliveira**
