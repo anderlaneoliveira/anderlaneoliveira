@@ -5,9 +5,10 @@
 
 Sobre mim:
 
-- 👨‍💻 Disponível para colaborar em projetos de **Ciência de Dados, BI & Analytics**
+- 👨‍💻 Colaboração em projetos de **Ciência de Dados, BI & Analytics**
 - 🌱 Estudando fundamentos de **Engenharia de Dados**, e pretendo ampliar meus conhecimentos em **IA**
-- 💬 Interesses em **T-SQL, R, Python ,Big Data, Linguagem Julia, Hive, Airflow, Inteligência Artificial, Deep Learning**
+- 💬 Skills em **T-SQL, R, Python ,Spark, Azure Machine Learning, Databricks, Tableau, Power BI, Qlik Sense**
+- 💬 Interesses em **Linguagem Julia, Hive, Airflow, Inteligência Artificial, Deep Learning**
 - 📫 Contato: anderlane.oliveira@gmail.com
 
 <!--
